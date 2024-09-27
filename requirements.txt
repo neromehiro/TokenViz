@@ -1,0 +1,8 @@
+# requirements.txt
+flask
+transformers==4.37.2
+torch
+sentencepiece
+flask-swagger-ui
+uvicorn
+FastAPI
