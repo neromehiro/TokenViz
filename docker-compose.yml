@@ -1,7 +1,7 @@
 # docker-compose.yml
 version: '3'
 services:
-  llm_service:
+  tokenviz:
     build:
       context: .
       dockerfile: Dockerfile
