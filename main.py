@@ -1,7 +1,7 @@
 # main.py
 from fastapi import FastAPI
 from pydantic import BaseModel
-from inference2 import load_model, generate_text
+from inference import load_model, generate_text
 
 app = FastAPI()
 

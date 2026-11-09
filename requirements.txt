@@ -6,3 +6,5 @@ sentencepiece
 flask-swagger-ui
 uvicorn
 FastAPI
+seaborn
+scikit-learn
